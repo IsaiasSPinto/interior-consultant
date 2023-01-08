@@ -7,15 +7,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://isaiasspinto.github.io/404-Page">
+    <a href="https://isaiasspinto.github.io/interior-consultant">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/IsaiasSPinto/404-Page">
+    <a href="https://github.com/IsaiasSPinto/interior-consultant">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
     </a>
   </h3>
@@ -34,10 +34,10 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/IsaiasSPinto/404-Page/main/web.png)
+![screenshot](https://raw.githubusercontent.com/IsaiasSPinto/interior-consultant/main/web-interiorconsultant.png)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IsaiasSPinto/404-Page/main/mobile.png" />
+  <img src="https://raw.githubusercontent.com/IsaiasSPinto/interior-consultant/main/mobile-interiorconsultat.png" />
 </div>
 
 
@@ -58,7 +58,7 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
 
 
 ## Contact
